@@ -6,8 +6,8 @@ import math
 from cadquery import exporters
 
 #adjust these three variables to change the grid size
-x_grid_number = 1 #CHANGEME!
-y_grid_number = 7 #CHANGEME!
+x_grid_number = 3 #CHANGEME!
+y_grid_number = 5 #CHANGEME!
 unit_height   = 6 #CHANGME! 2+ number of units -- unitless in integer
 
 disable_mholes = False #disable magnet/bolt holes in container
